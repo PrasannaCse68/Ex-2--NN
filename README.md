@@ -3,7 +3,7 @@
 
 <H3>Name: PRASANNA G R</H3>
 <H3>Register no: 212221040129</H3>
-<H3>Date: 28.04.2024</H3>
+<H3>Date: 18.04.2024</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
